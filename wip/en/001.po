@@ -1,0 +1,41 @@
+# 
+# Translators:
+# Mikko Kotila, 2023
+# 
+msgid ""
+msgstr ""
+"Last-Translator: Mikko Kotila, 2023\n"
+"Language-Team: English (https://www.transifex.com/lotus-king-trust/teams/162864/en/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgctxt "f3be760c8cea4fae9694e209a4ee8f99"
+msgid "འཁོར་ལོ་␣ར་ ཤར །།"
+msgstr "Arising as the wheel"
+
+msgctxt "bed65990bf8d46438664d0cc0f04ed3b"
+msgid "། ཕྱི་ ནང་ སྐྱེ་འགྲོ་ གཟུགས་ སུ་ སྣང་བ་ ཀུན །"
+msgstr "All appearances, outer and inner, beings and form,"
+
+msgctxt "ff0a7156d0154336af87d8f5db1c67ae"
+msgid "། དབྱིངས་ ཀྱི་ རྒྱན་ ཏེ་ སྐུ་ ཡི་ ངོ་བོ་␣ར་ ཤར །"
+msgstr "Are ornaments of the expanse, arising as the body's essence."
+
+msgctxt "faafe2c08dcb42c49630e23adf696673"
+msgid "། མ་ ལུས་ གྲགས་པ་␣འི་ སྒྲ་ སྐད་ ཇི་སྙེད་ ཀུན །"
+msgstr "All the speech and sound, as many as there may are,"
+
+msgctxt "31dfe4b1faba4c5eb208fb296fcfbdc9"
+msgid "། དབྱིངས་ ཀྱི་ རྒྱན་ ཏེ་ གསུང་ གི་ འཁོར་ལོ་␣ར་ ཤར །"
+msgstr "Are ornaments of the expanse, arising as the wheel of speech."
+
+msgctxt "0743dc6c2b1845a8ae5329d7746800c3"
+msgid "། དྲན་ རིག་ འགྱུ་ འཕྲོ་ མི་ རྟོག་ བསམ་ཡས་ ཀྱང༌ །"
+msgstr "Inconceivable recollection, knowing, discursion, and no thought, "
+
+msgctxt "91ccf9bb3cf94614a84894e653c97429"
+msgid "། དབྱིངས་ ཀྱི་ རྒྱན་ ཏེ་ ཐུགས་ ཀྱི་ འཁོར་ལོ་␣ར་ ཤར །"
+msgstr "Are ornaments of the expanse, arising as the wheel of mind."
