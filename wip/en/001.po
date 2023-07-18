@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Last-Translator: Mikko Kotila, 2023\n"
-"Language-Team: English (https://www.transifex.com/lotus-king-trust/teams/162864/en/)\n"
+"Language-Team: English (https://app.transifex.com/lotus-king-trust/teams/162864/en/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -26,7 +26,7 @@ msgstr "Are ornaments of the expanse, arising as the body's essence."
 
 msgctxt "faafe2c08dcb42c49630e23adf696673"
 msgid "། མ་ ལུས་ གྲགས་པ་␣འི་ སྒྲ་ སྐད་ ཇི་སྙེད་ ཀུན །"
-msgstr "All the speech and sound, as many as there may are,"
+msgstr "All the speech and sound, as many as there may be,"
 
 msgctxt "31dfe4b1faba4c5eb208fb296fcfbdc9"
 msgid "། དབྱིངས་ ཀྱི་ རྒྱན་ ཏེ་ གསུང་ གི་ འཁོར་ལོ་␣ར་ ཤར །"
